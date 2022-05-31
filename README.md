@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Dobri 👋
+
+I am Junior Python Web Developer
+
 - 📖 I’m currently learning HTML and CSS
 - ⏭ Next to learn 👉 React 
 - 🤔 I’m looking for help with ...
