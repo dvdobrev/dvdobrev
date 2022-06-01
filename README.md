@@ -1,6 +1,6 @@
 ### Hi there, I'm Dobri 👋
 
-I am Junior Python Web Developer
+I am a Junior Python Web Developer
 
 - 📖 I’m currently learning HTML and CSS
 - ⏭ Next to learn 👉 React 
