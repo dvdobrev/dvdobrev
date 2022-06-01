@@ -3,7 +3,7 @@
 I am a Junior Python Web Developer
 
 - 📖 I’m currently learning HTML and CSS
-- ⏭ Next to learn 👉 React 
+- 📚  Next to learn 🔜 React 💪
 - 👔 I’m looking for a job opportunity
 - 💻 You can reach me on
 
