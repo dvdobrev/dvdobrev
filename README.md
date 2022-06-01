@@ -7,6 +7,11 @@ I am Junior Python Web Developer
 - 👔 I’m looking for a job opportunity
 - 💻 You can reach me on
 
+     👉  [LinkedIn](https://www.linkedin.com/in/dobrin-dobrev-dd/)
+     
+     👉 dobrin.valev.dobrev@gmail.com
+
+
 
 
 <!--
