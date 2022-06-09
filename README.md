@@ -10,6 +10,10 @@ I am a Junior Python Web Developer
      👉  [LinkedIn](https://www.linkedin.com/in/dobrin-dobrev-dd/)
      
      👉 dobrin.valev.dobrev@gmail.com
+     
+     [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/dvdobrev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/dvdobrev)
 
 
 
