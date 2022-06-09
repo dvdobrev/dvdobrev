@@ -22,10 +22,10 @@ I am a Junior Python Web Developer
      
     
      
-<!--      
-     [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/dvdobrev)
+     
+     [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dvdobrev85)](https://github.com/dvdobrev85)
 
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/dvdobrev) -->
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvdobrev85&layout=compact)](https://github.com/dvdobrev85)
 
 
 
