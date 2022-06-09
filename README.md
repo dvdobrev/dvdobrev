@@ -1,6 +1,7 @@
-### Hi there, I'm Dobri 👋
+ <h1> Hi there, I'm Dobri 👋 </h1>
 
-I am a Junior Python Web Developer
+
+ <h3> I am a Junior Python Web Developer </h3>
 
 - 📖 I’m currently learning HTML and CSS
 - 📚  Next to learn 🔜 React 💪
