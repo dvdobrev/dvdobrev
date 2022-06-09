@@ -4,7 +4,7 @@ I am a Junior Python Web Developer
 
 - 📖 I’m currently learning HTML and CSS
 - 📚  Next to learn 🔜 React 💪
-- 👔 I’m looking for a job opportunity
+- 👔 I’m looking for a job 
 - ✉ You can reach me on
 
      👉  [LinkedIn](https://www.linkedin.com/in/dobrin-dobrev-dd/)
