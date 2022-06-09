@@ -5,7 +5,7 @@ I am a Junior Python Web Developer
 - 📖 I’m currently learning HTML and CSS
 - 📚  Next to learn 🔜 React 💪
 - 👔 I’m looking for a job opportunity
-- 💻 You can reach me on
+- ✉ You can reach me on
 
      👉  [LinkedIn](https://www.linkedin.com/in/dobrin-dobrev-dd/)
      
@@ -13,12 +13,9 @@ I am a Junior Python Web Developer
      
      <hr>
      
-     <h3> 
-     <font color="blue">
-     💼Technical Skills 
-     </font>
-     </h3>
-    
+     <h1> 
+     💻Technical Skills 
+     </h1>
      
      ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
      ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
