@@ -7,10 +7,12 @@
 - 📚  Next to learn 🔜 React 💪
 - 👔 I’m looking for a job 
 - ✉ You can reach me on
-
-     👉  [LinkedIn](https://www.linkedin.com/in/dobrin-dobrev-dd/)
      
      👉 dobrin.valev.dobrev@gmail.com
+     
+     👉  [LinkedIn](https://www.linkedin.com/in/dobrin-dobrev-dd/)
+     
+     👉 <a href="https://www.xing.com/profile/Dobrin_Dobrev15/cv" target="_blank">Xing</a>
      
      <hr>
      
