@@ -1,7 +1,6 @@
  <h1> Hi there, I'm Dobri 👋 </h1>
-
-
- <h3> I am a Junior Python Web Developer </h3>
+ 
+ <h2> I am a Junior Python Web Developer </h2>
 
 - 📖 I’m currently learning HTML and CSS
 - 📚  Next to learn 🔜 React 💪
@@ -26,7 +25,11 @@
      ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
      ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
      
+ 
+     
      <hr>
+     
+     
      
      [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dvdobrev)](https://github.com/dvdobrev)
 
