@@ -27,6 +27,7 @@ I am a Junior Python Web Developer
      ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
      
      <hr>
+     
      [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dvdobrev)](https://github.com/dvdobrev)
 
      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvdobrev&layout=compact)](https://github.com/dvdobrev)
