@@ -4,7 +4,7 @@
 
 - 📖 I’m currently learning HTML and CSS
 - 📚  Next to learn 🔜 React 💪
-- 👔 I’m looking for a job 
+- 👔 I’m open for new opportunity 
 - ✉ You can reach me on
      
      👉 dobrin.valev.dobrev@gmail.com
