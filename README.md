@@ -2,7 +2,7 @@
  
  <h2> I am a Junior Python Web Developer </h2>
 
-- 📖  I'm currently learning 🔜 React 💪
+- 📖  I'm currently learning 🔜 Data Science 💪
 - 👔 I’m open for new opportunity 
 - ✉ You can reach me on
      
