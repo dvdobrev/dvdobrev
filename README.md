@@ -1,8 +1,8 @@
  <h1> Hi there, I'm Dobri 👋 </h1>
  
- <h2> I am a Junior Python Web Developer </h2>
+ <h2> I am a Junior Web Developer </h2>
 
-- 📖  I'm currently learning 🔜 Java 💪
+- 📖  I'm currently working with Java 💪
 - 👔 I’m open for new opportunity 
 - ✉ You can reach me on
      
@@ -19,6 +19,8 @@
      </h1>
      
      ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
      ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
      ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
      ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
