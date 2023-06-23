@@ -1,6 +1,6 @@
  <h1> Hi there, I'm Dobri 👋 </h1>
  
- <h2> I am a Junior Web Developer </h2>
+ <h2> I am a Junior Full Stack Web Developer </h2>
 
 - 📖  I'm currently working with Java 💪
 - 👔 I’m open for new opportunity 
