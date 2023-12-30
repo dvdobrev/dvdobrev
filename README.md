@@ -3,7 +3,6 @@
  <h2> I am a Junior Full Stack Web Developer </h2>
 
 - 📖  I'm currently working with Java 💪
-- 👔 I’m open for new opportunity 
 - ✉ You can reach me on
      
      👉 dobrin.valev.dobrev@gmail.com
